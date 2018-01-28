@@ -1,3 +1,8 @@
 theme: minima
 
 title: Numérique - Ministères de l'écologie et des territoires
+
+header_pages:
+  - dataroom.md
+  - fabrique-numerique
+  - geek-lunch/index.md
