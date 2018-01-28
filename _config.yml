@@ -7,3 +7,6 @@ header_pages:
   - fabrique-numerique/index.md
   - geek-lunch/index.md
   - ressources/index.md
+
+plugins:
+  - remote_markdown
