@@ -1,4 +1,8 @@
-# La Fabrique numérique
+---
+title: Fabrique numérique
+---
+
+# Fabrique numérique
 
 Lien vers la présentation
 
