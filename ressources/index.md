@@ -1,5 +1,5 @@
 ---
-title: Ressources
+title: Ressources digitales
 ---
 
-## Ressources
+Les ressources digitales pour transformer notre administration.
