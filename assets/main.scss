@@ -4,10 +4,63 @@
 
 @import "minima";
 
+@font-face{
+    font-family : "Roboto";
+    src : url('./fonts/roboto/Roboto-Regular.ttf');
+}
+@font-face{
+    font-family : "Roboto Condensed";
+    src : url('./fonts/roboto/RobotoCondensed-Regular.ttf');
+}
+@font-face{
+    font-family : "Roboto Condensed Light";
+    src : url('./fonts/roboto/RobotoCondensed-Light.ttf');
+}
+@font-face{
+    font-family : "Roboto Condensed Bold";
+    src : url('./fonts/roboto/RobotoCondensed-Bold.ttf');
+}
+
+body {
+	font-family:"Roboto";
+}
+
 .site-header {
 	border:0px;
 	background-color:#f5f5ee;
+	.wrapper {
+		max-width: none;
+		padding:0px;
+	}
+	a.site-title {
+		display:block;
+		float:none;
+		font-family: "Roboto Condensed";
+		font-weight:700;
+		color:#202328;
+		padding: 1rem 1.4rem;
+	}
+	a.site-title:hover {
+		text-decoration: none;
+	}
+	nav.site-nav {
+		display:block;
+		float:none;
+		background-color:#202328;
+		padding: 0rem 1.4rem;
+		a {
+			color:#e1e4eb;
+			font-size:1.3rem;
+			line-height:1.5rem;
+			font-family: "Roboto Condensed Light";
+		}
+		a:hover {
+			color:#fff;
+			text-decoration-color:#4874B8;
+		}
+	}
 }
+
 
 .site-footer {
 	border:0px;
