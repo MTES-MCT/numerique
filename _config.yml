@@ -11,6 +11,7 @@ header_pages:
 collections:
   startup:
     output: true
+    permalink: /numerique/startup/:title.html
 
 defaults:
   -
