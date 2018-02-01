@@ -9,27 +9,27 @@ Les Geek-lunch des ministères de la Transition écologique et solidaire et de l
 {% assign curDate = site.time | date: '%s' %}
 
 
-### A venir
+## À venir
 
 <ul>
   {% for post in site.categories.geek-lunch %}
   {% assign postStartDate = post.date | date: '%s' %}
     {% if postStartDate >= curDate %}
     <li>
-      {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a> par {{ post.speaker }}
+      {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }}) par {{ post.speaker }}
     </li>
     {% endif %}
   {% endfor %}
 </ul>
 
-### Passés
+## Passés
 
 <ul>
   {% for post in site.categories.geek-lunch %}
   {% assign postStartDate = post.date | date: '%s' %}
     {% if postStartDate < curDate %}
     <li>
-      {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a> par {{ post.speaker }}
+      {{ post.date | date_to_string }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> par {{ post.speaker }}
     </li>
     {% endif %}
   {% endfor %}
