@@ -2,7 +2,7 @@
 title: Fabrique numérique
 ---
 
-### Les projets de la première saison
+#### Les projets de la première saison
 
 {% assign startups = site.startup %}
 {% for startup in startups %}
@@ -13,3 +13,7 @@ title: Fabrique numérique
 * [Co-construisons](./)
 * [A Dock](./)
 * [Assec](./)
+
+---
+
+##### *En étroite collaboration avec [beta.gouv.fr](https://beta.gouv.fr/)*
