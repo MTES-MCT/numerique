@@ -13,10 +13,10 @@ collections:
     output: true
     permalink: /numerique/startup/:title.html
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "startup"
-    values:
-      layout: "page"
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "startup"
+#     values:
+#       layout: "page"

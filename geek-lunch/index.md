@@ -16,7 +16,7 @@ Les Geek-lunch des ministères de la Transition écologique et solidaire et de l
   {% assign postStartDate = post.date | date: '%s' %}
     {% if postStartDate >= curDate %}
     <li>
-      {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a> par {{ post.speaker }}
+      {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }}) par {{ post.speaker }}
     </li>
     {% endif %}
   {% endfor %}
