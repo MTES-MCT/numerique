@@ -2,8 +2,6 @@ theme: minima
 
 title: Numérique & Ministères de l'Écologie et des Territoires
 
-baseurl: "/numerique"
-
 header_pages:
   - dataroom.md
   - fabrique-numerique/index.md
