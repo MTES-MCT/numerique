@@ -11,7 +11,7 @@ owner: Ministère de la transition écologique et solidaire
 
 ## Le problème
 
-Pour les entreprises minières, gérer un projet d’exploration ou d’exploitation est un parcours du combattant qui commence dès son élaboration. Quel est l’état juridique du domaine minier sur la zone ? Quelles sont les données minières déjà existantes ? Quelles démarches administratives dois-je suivre ? Quelles contraintes environnementales dois-je intégrer à mon projet ?
+Pour les entreprises minières, gérer un projet d’exploration ou d’exploitation est un parcours du combattant qui commence dès son élaboration. Quel est l’état juridique du domaine minier sur la zone ? Quelles sont les données minières déjà existantes ? Quelles démarches administratives dois-je suivre ? Quelles contraintes environnementales dois-je intégrer à mon projet ?
 Toutes ces questions essentielles ne trouvent pas facilement de réponses.
 
 Dès le projet esquissé, un véritable calvaire commence et se répète ensuite à chaque nouvelle procédure administrative. Déposer une demande de titres, actualiser son dossier papier de plusieurs milliers de pages auprès de multiples services de l’État, suivre l'avancement de sa demande, faire ses déclarations au bon moment et au bon format, sont autant de démarches complexes et consommatrices de temps à toutes les étapes de la vie d'un projet minier.
