@@ -20,3 +20,10 @@ Les ressources digitales pour transformer notre administration.
 * [Mindlab](http://mind-lab.dk/en/), le laboratoire d'innovation publique du Danemark
 * [Govlab](http://www.thegovlab.org/), le laboratoire d'innovation publique de la ville de New York 
 * [Outils de prototypage rapide](https://www.boardofinnovation.com/resources-tools-for-prototyping/) mis à disposition par le Bord of Innovation
+
+### Ressources pour se former (seul ou avec ses pairs)
+* [Data litteracy, culture de la donnée](https://datactivist.coop/dataliteracy/#1) par l'association des [Datactivist](https://datactivist.coop/) 
+* [Basiques du développement Web: comprendre comment est fait un site](https://ondemand.lewagon.org/tracks/web-development-basics/go?utm_source=newsletter&utm_medium=email&utm_campaign=learntocode) par le Wagon  
+* [Chaîne Youtube du Wagon](https://www.youtube.com/playlist?list=PLkbmdtbypn7RqYSvBqewZNtf9uFEYs0KN) des meetups de courte durée pour comprendre et commencer à faire
+* [Datascience, R et python](https://www.kaggle.com/learn/overview) les bases avec Kaggle
+* [Introduction au machine learning](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=1) par Google
