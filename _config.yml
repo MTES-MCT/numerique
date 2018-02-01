@@ -7,3 +7,15 @@ header_pages:
   - fabrique-numerique/index.md
   - geek-lunch/index.md
   - ressources/index.md
+
+collections:
+  startup:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "startup"
+    values:
+      layout: "page"

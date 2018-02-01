@@ -2,12 +2,18 @@
 title: Fabrique numérique
 ---
 
-### Les projets de la première saison
+#### Les projets de la première saison
 
-* [Camino](./camino.html)
-* [Aides-territoires](./aides-territoires.html)
-* [Aeris](./aeris.html)
+{% assign startups = site.startup %}
+{% for startup in startups %}
+* [{{ startup.title }}]({{ startup.url }}) 
+> ##### {{ startup.mission }}
+{% endfor %}
 * [Bail confiance](./)
 * [Co-construisons](./)
 * [A Dock](./)
 * [Assec](./)
+
+---
+
+##### *En étroite collaboration avec [beta.gouv.fr](https://beta.gouv.fr/)*
