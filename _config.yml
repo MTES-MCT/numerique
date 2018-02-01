@@ -2,7 +2,7 @@ theme: minima
 
 title: Numérique & Ministères de l'Écologie et des Territoires
 
-baseurl: ""
+baseurl: "/numerique"
 
 header_pages:
   - dataroom.md
