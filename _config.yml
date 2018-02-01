@@ -11,12 +11,12 @@ header_pages:
 collections:
   startup:
     output: true
-    permalink: /numerique/startup/:title.html
+    permalink: /startup/:title.html
 
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "startup"
-#     values:
-#       layout: "page"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "startup"
+    values:
+      layout: "page"
