@@ -12,10 +12,3 @@ En étroite collaboration avec [beta.gouv.fr](https://beta.gouv.fr/)
 ### [{{ startup.title }}]({{ startup.url | prepend: site.baseurl }}) 
 {{ startup.mission }}
 {% endfor %}
-* [Bail confiance](./)
-* [Co-construisons](./)
-* [A Dock](./)
-* [Assec](./)
-
----
-
