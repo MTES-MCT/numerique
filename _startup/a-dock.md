@@ -1,6 +1,6 @@
 ---
 title: A Dock
-mission: Simplifier la relation transporteur - chargeur 
+mission: Simplifier la relation transporteur-chargeur 
 owner: Ministère de la Transition Ecologique et Solidaire
 link: 
 repository:
