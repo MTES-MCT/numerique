@@ -12,7 +12,7 @@ owner: Ministère de la Cohésion des Territoires / Ministère de la Transition 
 
 ## Une relation tendue
 Chaque année plus d’un million de baux sont conclus en France, pourtant la relation entre bailleurs et locataires est loin d’être apaisée. La principale raison ? Les bailleurs ont peur. Si impayés, refus de quitter les lieux et dégradation du bien sont heureusement rares, ces situations cauchemardesques continuent pourtant d’alimenter les angoisses des bailleurs. Ceinture et bretelles sont donc de mise et les requêtes de documents se multiplient – quitte parfois à outrepasser les droits des locataires.
-Face à ces méthodes, et poussé par la nécessité de se loger (on les comprend), les locataires eux aussi franchissent parfois la ligne. Fausses fiches de paie ou déclarations d’imposition contrefaites fleurissent ainsi dans certaines zones tendues où l’offre de logement est insuffisante pour satisfaire la demande. Se démarquer devient une nécessité et avoir un dossier parfait, la seule solution d’avoir sa chance au milieu de candidatures maquillées.
+Face à ces méthodes, et poussés par la nécessité de se loger (on les comprend), les locataires eux aussi franchissent parfois la ligne. Fausses fiches de paie ou déclarations d’imposition contrefaites fleurissent ainsi dans certaines zones tendues où l’offre de logement est insuffisante pour satisfaire la demande. Se démarquer devient une nécessité et avoir un dossier parfait, la seule solution d’avoir sa chance au milieu de candidatures maquillées.
 Chez Locat.io, nous ambitionnons de casser ce cercle vicieux pour remettre la confiance au centre de la relation entre locataires et bailleurs.
 
 ## Locat.io c’est quoi ?
