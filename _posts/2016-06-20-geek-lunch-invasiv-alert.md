@@ -3,7 +3,7 @@ layout: post
 title : Invasiv'Alerte
 date: 2016-06-20
 category: geek-lunch
-speaker: LM et ST
+speaker: Laurence Matringe et Stéphane Trainel
 ---
 
 Présentation du projet développé pendant le hackathon #HackBioDiv par LM et ST
