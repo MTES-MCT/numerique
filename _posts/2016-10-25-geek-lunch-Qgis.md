@@ -3,7 +3,7 @@ layout: post
 title : Qgis, ma carte en 2 minutes ou pas 
 date: 2016-10-25
 category: geek-lunch
-speaker: JM
+speaker: Joël Mognol
 ---
 
 Initiation à Qgis par Joël Mognol
