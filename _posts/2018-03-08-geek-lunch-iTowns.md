@@ -7,4 +7,4 @@ speaker: Charlotte Hoarau et Nicolas Lambert
 ---
 
 **Picth initial**  
-Comment visualiser un territoire ou un phénomène spatialisé en interagissant avec des données géographiques ? Grâce à une application de géovisualisation ! Venez découvrir les recherches de l'IGN en visualisation de données géographiques, 3D, temporelles, hétérogènes, incertaines, etc. et un focus sur [la plateforme iTowns(http://www.itowns-project.org).
+Comment visualiser un territoire ou un phénomène spatialisé en interagissant avec des données géographiques ? Grâce à une application de géovisualisation ! Venez découvrir les recherches de l'IGN en visualisation de données géographiques, 3D, temporelles, hétérogènes, incertaines, etc. et un focus sur [la plateforme iTowns](http://www.itowns-project.org).
