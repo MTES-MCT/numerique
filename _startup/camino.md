@@ -1,15 +1,19 @@
 ---
 title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
-status: investigation
-contact: contact@camino.beta.gouv.fr
-start: 2018-01-01
 owner: Ministère de la transition écologique et solidaire
+status: investigation
+start: 2018-01-01
+end:
+link: http://camino.beta.gouv.fr
+repository:
+stats: false
+contact: contact@camino.beta.gouv.fr
 ---
 
 ## Le problème
 
-Pour les entreprises minières, gérer un projet d’exploration ou d’exploitation est un parcours du combattant qui commence dès son élaboration. Quel est l’état juridique du domaine minier sur la zone ? Quelles sont les données minières déjà existantes ? Quelles démarches administratives dois-je suivre ? Quelles contraintes environnementales dois-je intégrer à mon projet ?
+Pour les entreprises minières, gérer un projet d’exploration ou d’exploitation est un parcours du combattant qui commence dès son élaboration. Quel est l’état juridique du domaine minier sur la zone ? Quelles sont les données minières déjà existantes ? Quelles démarches administratives dois-je suivre ? Quelles contraintes environnementales dois-je intégrer à mon projet ?
 Toutes ces questions essentielles ne trouvent pas facilement de réponses.
 
 Dès le projet esquissé, un véritable calvaire commence et se répète ensuite à chaque nouvelle procédure administrative. Déposer une demande de titres, actualiser son dossier papier de plusieurs milliers de pages auprès de multiples services de l’État, suivre l'avancement de sa demande, faire ses déclarations au bon moment et au bon format, sont autant de démarches complexes et consommatrices de temps à toutes les étapes de la vie d'un projet minier.
@@ -37,10 +41,10 @@ Avec ce référentiel commun ouvert et partagé des dossiers miniers et des auto
 Une première preuve de concept constituée de tableaux couplés à une carte interactive valide la possibilité de constituer un référentiel commun des titres et projets miniers.
 
 Maintenant, il s’agit de l’étendre à l’ensemble des titres valides énergétiques, non énergétiques et les stockages souterrains (hors substances utiles à l’énergie atomique) pour présenter une cartographie complète et à jour du domaine minier et des projets en cours.
- 
+
 Dans notre démarche utilisateur, nous dématérialiserons les premières procédures les plus fréquentes du code minier et proposerons un tableau de bord aux entreprises qui expérimenteront le service Camino.
- 
+
 Avec les données recueillies, nous automatiserons l’actualisation du cadastre minier et nous diffuserons dans un standard électronique ouvert les données et documents publics déjà disponibles d’ici six mois, notamment via data.gouv.fr.
 Nous travaillons en priorité sur le territoire métropolitain et la Guyane.
- 
+
 Vous êtes en charge de dossiers miniers, vous êtes intéressés pour participer à la création de ce service ? <a href="mailto:contact@camino.beta.gouv.fr?Subject=Camino%20m'intéresse%20!" target="_top">Contactez-nous !</a>
