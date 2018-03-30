@@ -25,7 +25,7 @@ De plus, côté contributeur trouver des projets dans lesquels s’impliquer est
 
 ## Notre solution
 
-Co-construisons est une communauté digitale qui réunit les porteurs de projets collaboratifs et les contributeurs volontaires.
+Co-construisons est une communauté numérique qui réunit les porteurs de projets collaboratifs et les contributeurs volontaires.
 
 Aux contributeurs volontaires :
 - il présentera un choix de projets auxquels contribuer en fonction de leurs centres d’intérêts et du type de contribution souhaité (photo, questionnaire, observation),
