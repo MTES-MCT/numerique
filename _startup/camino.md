@@ -8,7 +8,7 @@ end:
 link: http://camino.beta.gouv.fr
 repository:
 stats: false
-contact: contact@camino.beta.gouv.fr
+contact: guillaume.levieux@beta.gouv.fr
 ---
 
 ## Le problème
