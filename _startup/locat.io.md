@@ -8,7 +8,7 @@ end:
 link: http://locatio.beta.gouv.fr/home
 repository:
 stats: false
-contact: contact@locatio.beta.gouv.fr
+contact: matthieu.heurtel@beta.gouv.fr
 ---
 
 ## Une relation tendue
