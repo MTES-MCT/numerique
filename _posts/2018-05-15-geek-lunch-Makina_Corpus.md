@@ -1,6 +1,6 @@
 ---
 layout: post
-title : État de l'art des technologies open source pour la cartographie : focus sur le tuilage vectoriel
+title : État de l'art des technologies open source pour la cartographie - focus sur le tuilage vectoriel
 date: 2018-05-15
 category: geek-lunch
 speaker: Frédéric Bonifas, Jean-Pierre Oliva, Olivia Duval et Simon Georges
