@@ -30,7 +30,7 @@ Cette session a été consacrée à l'état de l'art des technologies open sourc
 
 ## Tuiles
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/tuiles.png) <!-- .element style="float:right; max-width:40%" -->
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/tuiles.png) <!-- .element style="float:right; max-width:40%" -->
 
 Ensemble d’images de 256x256 pixels
 
@@ -53,7 +53,7 @@ Ensemble d’images de 256x256 pixels
 
 ### Tuiles vectorielles
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/square-of-math.gif)<!-- .element height="300px"  -->
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/square-of-math.gif)<!-- .element height="300px"  -->
 
 * Principe de tuiles conservé
 * Données brutes vectorielles plutôt que des images précalculées
@@ -81,7 +81,7 @@ Les [bâtiments de Paris](https://opendata.paris.fr/explore/dataset/volumesbatis
 * Affichage des différentes propriétés d'un objet
 * N'importe quelle grandeur présente dans les données peut être utilisée
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/style.gif)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/style.gif)
 
 ---
 
@@ -90,7 +90,7 @@ Les [bâtiments de Paris](https://opendata.paris.fr/explore/dataset/volumesbatis
 * Rendu en 3D
 * Texte toujours orienté dans le sens de lecture
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/3d.gif)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/3d.gif)
 
 ---
 
@@ -100,7 +100,7 @@ Les [bâtiments de Paris](https://opendata.paris.fr/explore/dataset/volumesbatis
 * Accès à la géométrie et aux propriétés
 * Opérations géométriques sur les objets (ex : cluster, Voronoï etc.)
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/interaction.gif)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/interaction.gif)
 
 ---
 
@@ -114,25 +114,25 @@ Les [bâtiments de Paris](https://opendata.paris.fr/explore/dataset/volumesbatis
 
 ### Tuiles vectorielles - exemples
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/openocean-vt-zoom.gif)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/openocean-vt-zoom.gif)
 
 ---
 
 ### Tuiles vectorielles - exemples
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/wavely.png)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/wavely.png)
 
 ---
 
 ### Tuiles vectorielles - exemples
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/170130_visu_valoiti_white.jpg)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/170130_visu_valoiti_white.jpg)
 
 ---
 
 ### Tuiles vectorielles - exemples
 
-![](/../../media/2018-05-15-geek-lunch-Makina_Corpus/moodwalkr-profiles.gif)
+![](https://mtes-mct.github.io/numerique/media/2018-05-15-geek-lunch-Makina_Corpus/moodwalkr-profiles.gif)
 
 ---
 
