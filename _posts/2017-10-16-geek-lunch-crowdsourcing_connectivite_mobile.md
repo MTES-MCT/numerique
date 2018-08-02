@@ -1,6 +1,6 @@
 ---
 layout: post
-title : crowdsourcing de la connectivité mobile
+title : Crowdsourcing de la connectivité mobile
 date: 2017-10-16
 category: geek-lunch
 speaker: Philippe Clopeau
