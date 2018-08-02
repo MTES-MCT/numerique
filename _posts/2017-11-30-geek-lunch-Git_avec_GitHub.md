@@ -12,4 +12,4 @@ Si le terme logiciel de gestion de code source vous fait peur, c'est le moment d
 
 **Pour ceux qui ont raté la séance :**
 
-[La présentation de Julien.](20171018_Julien_Bouquillon_Git_GitHub.pdf)
+[La présentation de Julien.](https://mtes-mct.github.io/numerique/media/20171018_Julien_Bouquillon_Git_GitHub.pdf)
