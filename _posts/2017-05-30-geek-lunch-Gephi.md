@@ -3,7 +3,7 @@ layout: post
 title : Gephi 
 date: 2017-05-30
 category: geek-lunch
-speaker: Laurence Matringe, Luc Mathis
+speaker: Laurence Matringe et Luc Mathis
 ---
 
 Présentation de Gephi par Laurence Matringe et Luc Mathis.
