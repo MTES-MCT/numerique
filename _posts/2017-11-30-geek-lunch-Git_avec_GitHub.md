@@ -12,4 +12,4 @@ Si le terme logiciel de gestion de code source vous fait peur, c'est le moment d
 
 **Pour ceux qui ont raté la séance :**
 
-Rendez-vous sur [https://try.github.io](https://try.github.io) et suivez les tutoriels. Ce n'est qu'un exemple. Il y en a plein d'autres en ligne.
+[La présentation de Julien.](20171018_Julien_Bouquillon_Git_GitHub.pdf)
