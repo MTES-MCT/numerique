@@ -11,4 +11,5 @@ speaker: Julien Bouquillon
 Si le terme logiciel de gestion de code source vous fait peur, c'est le moment de plonger. Ce geek lunch sera l'occasion de découvrir les fondamentaux - accessibles à tous - de Git. Notre intervenant est Julien Bouquillon du ministère des affaires sociales.
 
 **Pour ceux qui ont raté la séance :**
-Rendez-vous sur [https://try.github.io](https://try.github.io) et suivez les tutoriels. Il y en a plein d'autres en ligne.
+
+Rendez-vous sur [https://try.github.io](https://try.github.io) et suivez les tutoriels. Ce n'est qu'un exemple. Il y en a plein d'autres en ligne.
