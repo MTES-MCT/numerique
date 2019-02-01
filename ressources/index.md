@@ -23,6 +23,7 @@ Les ressources digitales pour transformer notre administration.
 
 ## Ressources pour se former (seul ou avec ses pairs)
 * [Data litteracy, culture de la donnée](https://datactivist.coop/dataliteracy/#1) par l'association des [Datactivist](https://datactivist.coop/) 
+* [Formation dataviz](https://www.sites.univ-rennes2.fr/mastersigat/Cours/Atelier%20Visualisation%20de%20donn%c3%a9es%20CERGY.pdf) de l'université de Rennes
 * [Basiques du développement Web: comprendre comment est fait un site](https://ondemand.lewagon.org/tracks/web-development-basics/go?utm_source=newsletter&utm_medium=email&utm_campaign=learntocode) par le Wagon  
 * [Chaîne Youtube du Wagon](https://www.youtube.com/playlist?list=PLkbmdtbypn7RqYSvBqewZNtf9uFEYs0KN) des meetups de courte durée pour comprendre et commencer à faire
 * [Datascience, R et python](https://www.kaggle.com/learn/overview) les bases avec Kaggle
